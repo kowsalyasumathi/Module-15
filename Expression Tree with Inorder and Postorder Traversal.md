@@ -20,8 +20,8 @@ To write a Python program to build the given expression tree and print the inord
 
 
 ```python
-# Reg.No: 212223060014
-# Name: AKSHAYA SETTU
+# Reg.No: 212223060129
+# Name: KOWSALYA V
 
 from binarytree import build,Node
 x=['*',4,'-',5,'+',2,7]
